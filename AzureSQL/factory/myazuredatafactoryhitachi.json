@@ -1,0 +1,9 @@
+{
+	"name": "myazuredatafactoryhitachi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b973d458-6856-4f85-b77d-5028c2a3805d",
+		"tenantId": "68270dfd-c41e-48bb-849d-fe1316abc8a2"
+	}
+}
